@@ -1,0 +1,10 @@
+POST  http://localhost:4000/app/Login
+Content-Type:  application/json
+
+{
+    
+    "username":"veerabrahmam",
+    "email":"veerabrahmam401@gmail.com",
+    "password":"Veerab24",
+    "confirm_password":"Veerab24"
+}
